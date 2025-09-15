@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|c:\\users\\enesc\\desktop\\b241210088-enes \u00E7a\u011Fr\u0131 \u00E7ali\u015Fkan -- proje dosyas\u0131\\b241210088_proje\\b241210088_proje\\aktivite_alanlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\aktivite_alanlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|c:\\users\\enesc\\desktop\\b241210088-enes \u00E7a\u011Fr\u0131 \u00E7ali\u015Fkan -- proje dosyas\u0131\\b241210088_proje\\b241210088_proje\\daire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\daire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|c:\\users\\enesc\\desktop\\b241210088-enes \u00E7a\u011Fr\u0131 \u00E7ali\u015Fkan -- proje dosyas\u0131\\b241210088_proje\\b241210088_proje\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|c:\\users\\enesc\\desktop\\b241210088-enes \u00E7a\u011Fr\u0131 \u00E7ali\u015Fkan -- proje dosyas\u0131\\b241210088_proje\\b241210088_proje\\mekan_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\mekan_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|c:\\users\\enesc\\desktop\\b241210088-enes \u00E7a\u011Fr\u0131 \u00E7ali\u015Fkan -- proje dosyas\u0131\\b241210088_proje\\b241210088_proje\\b241210088_proje.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\b241210088_proje.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|c:\\users\\enesc\\desktop\\b241210088-enes \u00E7a\u011Fr\u0131 \u00E7ali\u015Fkan -- proje dosyas\u0131\\b241210088_proje\\b241210088_proje\\fitness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\fitness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|c:\\users\\enesc\\desktop\\b241210088-enes \u00E7a\u011Fr\u0131 \u00E7ali\u015Fkan -- proje dosyas\u0131\\b241210088_proje\\b241210088_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|c:\\users\\enesc\\desktop\\b241210088-enes \u00E7a\u011Fr\u0131 \u00E7ali\u015Fkan -- proje dosyas\u0131\\b241210088_proje\\b241210088_proje\\mekan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\mekan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|c:\\users\\enesc\\desktop\\b241210088-enes \u00E7a\u011Fr\u0131 \u00E7ali\u015Fkan -- proje dosyas\u0131\\b241210088_proje\\b241210088_proje\\oturan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\oturan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|c:\\users\\enesc\\desktop\\b241210088-enes \u00E7a\u011Fr\u0131 \u00E7ali\u015Fkan -- proje dosyas\u0131\\b241210088_proje\\b241210088_proje\\misafir_\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\misafir_\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|c:\\users\\enesc\\desktop\\b241210088-enes \u00E7a\u011Fr\u0131 \u00E7ali\u015Fkan -- proje dosyas\u0131\\b241210088_proje\\b241210088_proje\\havuz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\havuz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|c:\\users\\enesc\\desktop\\b241210088-enes \u00E7a\u011Fr\u0131 \u00E7ali\u015Fkan -- proje dosyas\u0131\\b241210088_proje\\b241210088_proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\b241210088_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\b241210088_proje\\aktivite_alanlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\aktivite_alanlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\b241210088_proje\\mekan_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\mekan_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\b241210088_proje\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\b241210088_proje\\misafir_\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A58143F-0CE2-4B06-A4CD-308D0BB305EB}|B241210088_Proje\\B241210088_Proje.csproj|solutionrelative:b241210088_proje\\misafir_\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Program.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\Program.cs",
+              "ToolTip": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Program.cs",
+              "RelativeToolTip": "B241210088_Proje\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:56:18.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Havuz.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Havuz.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\Havuz.cs",
+              "ToolTip": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Havuz.cs",
+              "RelativeToolTip": "B241210088_Proje\\Havuz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:56:13.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Misafir_\u0130slemleri.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Misafir_\u0130slemleri.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\Misafir_\u0130slemleri.cs",
+              "ToolTip": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Misafir_\u0130slemleri.cs",
+              "RelativeToolTip": "B241210088_Proje\\Misafir_\u0130slemleri.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAgwGQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T15:38:14.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Oturan.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Oturan.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\Oturan.cs",
+              "ToolTip": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Oturan.cs",
+              "RelativeToolTip": "B241210088_Proje\\Oturan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:09:22.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mekan.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Mekan.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\Mekan.cs",
+              "ToolTip": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Mekan.cs",
+              "RelativeToolTip": "B241210088_Proje\\Mekan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T15:15:00.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Form1.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Form1.cs",
+              "RelativeToolTip": "B241210088_Proje\\Form1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:07:52.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fitness.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Fitness.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\Fitness.cs",
+              "ToolTip": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Fitness.cs",
+              "RelativeToolTip": "B241210088_Proje\\Fitness.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:56:27.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "B241210088_Proje.csproj",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\B241210088_Proje.csproj",
+              "RelativeDocumentMoniker": "B241210088_Proje\\B241210088_Proje.csproj",
+              "ToolTip": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\B241210088_Proje.csproj",
+              "RelativeToolTip": "B241210088_Proje\\B241210088_Proje.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-24T13:34:18.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mekan_menu.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Mekan_menu.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\Mekan_menu.cs",
+              "ToolTip": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Mekan_menu.cs",
+              "RelativeToolTip": "B241210088_Proje\\Mekan_menu.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAqwO8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:47:34.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Odeme.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Odeme.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\Odeme.cs",
+              "ToolTip": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Odeme.cs",
+              "RelativeToolTip": "B241210088_Proje\\Odeme.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:56:31.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Daire.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Daire.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\Daire.cs",
+              "ToolTip": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Daire.cs",
+              "RelativeToolTip": "B241210088_Proje\\Daire.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:20:55.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aktivite_alanlari.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\aktivite_alanlari.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\aktivite_alanlari.cs",
+              "ToolTip": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\aktivite_alanlari.cs",
+              "RelativeToolTip": "B241210088_Proje\\aktivite_alanlari.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:22:04.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "aktivite_alanlari.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\aktivite_alanlari.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\aktivite_alanlari.cs",
+              "ToolTip": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\aktivite_alanlari.cs [Design]",
+              "RelativeToolTip": "B241210088_Proje\\aktivite_alanlari.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:09:30.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Form1.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\Form1.cs",
+              "ToolTip": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Form1.cs [Design]",
+              "RelativeToolTip": "B241210088_Proje\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:07:28.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Odeme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Odeme.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\Odeme.cs",
+              "ToolTip": "C:\\Users\\enesc\\source\\repos\\B241210088_Proje\\B241210088_Proje\\Odeme.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\B241210088_Proje\\B241210088_Proje\\Odeme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T16:09:54.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mekan_menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Mekan_menu.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\Mekan_menu.cs",
+              "ToolTip": "C:\\Users\\enesc\\source\\repos\\B241210088_Proje\\B241210088_Proje\\Mekan_menu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\B241210088_Proje\\B241210088_Proje\\Mekan_menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:46:12.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Misafir_\u0130slemleri.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\enesc\\Desktop\\B241210088-Enes \u00C7a\u011Fr\u0131 \u00C7ALI\u015EKAN -- Proje Dosyas\u0131\\B241210088_Proje\\B241210088_Proje\\Misafir_\u0130slemleri.cs",
+              "RelativeDocumentMoniker": "B241210088_Proje\\Misafir_\u0130slemleri.cs",
+              "ToolTip": "C:\\Users\\enesc\\source\\repos\\B241210088_Proje\\B241210088_Proje\\Misafir_\u0130slemleri.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\B241210088_Proje\\B241210088_Proje\\Misafir_\u0130slemleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:48:28.715Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

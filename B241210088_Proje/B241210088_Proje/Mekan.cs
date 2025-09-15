@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace B241210088_Proje
+{
+    class Mekan
+    {
+        public int DaireNo;
+        public string DaireSahibi;
+        public double DaireBorcu;
+
+    }
+}
